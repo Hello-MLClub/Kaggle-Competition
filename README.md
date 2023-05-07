@@ -3,7 +3,7 @@
 
 # LeetCode 题解（已完成 751 道）
 
-| 题号 | 标题 | 题解 | 标签 | 难度 |
+| 题号 | 标题 | 题解 | 类别 | 难度 |
 | :------ | :------ | :------ | :------ | :------ |
 | 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | [Python](https://github.com/Hello-MLClub/Algorithm-LeetCode-Python/blob/main/Solutions/0001.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 数组、哈希表 | 简单 |
 | 0002 | [两数相加](https://leetcode.cn/problems/add-two-numbers/) | [Python](https://github.com/Hello-MLClub/Algorithm-LeetCode-Python/blob/main/Solutions/0002.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) | 递归、链表、数学 | 中等 |
