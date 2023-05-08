@@ -17,4 +17,7 @@
 | :------ | :------ | :------ | :------ |
 | 2023-05-01  | [Google - 孤立的手语识别](https://www.kaggle.com/competitions/asl-signs) | [第二名](https://github.com/ffs333/2nd_place_GISLR) | 视频分类、分类 | 
 | 2023-04-03 | [预测 2023 年 NCAA 篮球锦标赛](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/overview/description) | [第一名](https://www.kaggle.com/code/rustyb/paris-madness-2023) | 预测 |
-| 0003 | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/Hello-MLClub/Algorithm-LeetCode-Python/blob/main/Solutions/0003.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md) | 字符串、哈希表、双指针、字符串、滑动窗口 | 
+| 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
+| 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
+| 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
+| 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
