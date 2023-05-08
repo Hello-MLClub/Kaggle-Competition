@@ -18,6 +18,6 @@
 | 2023-05-01  | [Google - 孤立的手语识别](https://www.kaggle.com/competitions/asl-signs) | [第二名](https://github.com/ffs333/2nd_place_GISLR) | 视频分类、分类 | 
 | 2023-04-03 | [预测 2023 年 NCAA 篮球锦标赛](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/overview/description) | [第一名](https://www.kaggle.com/code/rustyb/paris-madness-2023) | 预测 |
 | 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
-| 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
+| 2023-01-31 | [OTTO多目标推荐系统](https://www.kaggle.com/competitions/otto-recommender-system/overview/description) | [第三名](https://github.com/cdeotte/Kaggle-OTTO-Comp) | 推荐系统、召回 | 
 | 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
 | 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
