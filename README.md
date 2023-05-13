@@ -40,12 +40,11 @@
 | 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
 | 2021-03-20 | [VinBigData 胸透异常检测-自动对胸片中的胸部异常进行定位和分类](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/overview/description) | [第二名](https://github.com/ZFTurbo/2nd-place-solution-for-VinBigData-Chest-X-ray-Abnormalities-Detection)、[第三名](https://github.com/Scu-sen/VinBigData-Chest-X-ray-Abnormalities-Detection)| 图像| 
 | 2021-02-18 | [木薯叶病分类](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/overview/description) | [第三名](https://github.com/TomYanabe/Cassava-Leaf-Disease-Classification)| 图像、多分类| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
-| 2021-05-10 | [Shopee - 价格匹配保证-通过图像判断两个产品是否相同](https://www.kaggle.com/competitions/shopee-product-matching/overview/description) | [第二名](https://www.kaggle.com/competitions/shopee-product-matching/discussion/238022)| 图像、文本| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+| 2020-11-30 | [作用机制 (MoA) 预测：根据生物活性对药物进行预测](https://www.kaggle.com/competitions/lish-moa/overview/description) | [第一名](https://github.com/guitarmind/kaggle_moa_winner_hungry_for_gold)| 预测| 
+
