@@ -17,6 +17,7 @@
 
 | 时间 | 标题 | 解决方案 | 类别 |
 | :--------- | :------ | :------ | :------ |
+| 2023-05-20  | [帕金森病进展预测](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/overview/description) | [第一名](https://www.kaggle.com/code/dott1718/amp-model-stack3/notebook) | 预测 | 
 | 2023-05-01  | [Google - 孤立的手语识别](https://www.kaggle.com/competitions/asl-signs) | [第二名](https://github.com/ffs333/2nd_place_GISLR) | 视频分类、分类 | 
 | 2023-04-03 | [预测 2023 年 NCAA 篮球锦标赛](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/overview/description) | [第一名](https://www.kaggle.com/code/rustyb/paris-madness-2023) | 预测 |
 | 2023-04-14 | [乳腺癌检测算法大赛](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview/description) | [第一名](https://github.com/dangnh0611/kaggle_rsna_breast_cancer) | 图像分类、二元分类 | 
